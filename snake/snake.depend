@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1654688027 source:d:\dam rade\projekt_na_programowanie\snake\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<time.h>
+
+1654856854 source:i:\snake\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<fstream>
+	<time.h>
+
+1662556219 source:c:\users\2patr\onedrive\pulpit\snake\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+	"Jedzenie.h"
+	"Plansza.h"
+	"Postac.h"
+	"Snake.h"
+	"Ranking.h"
+	"Ranking.cpp"
+
+1659181568 c:\users\2patr\onedrive\pulpit\snake\plansza.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+
+1659477890 source:c:\users\2patr\onedrive\pulpit\snake\plansza.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+	"Plansza.h"
+
+1659181519 c:\users\2patr\onedrive\pulpit\snake\jedzenie.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+	"Plansza.h"
+
+1659473142 source:c:\users\2patr\onedrive\pulpit\snake\jedzenie.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+	"Plansza.h"
+	"Jedzenie.h"
+
+1659648184 source:c:\users\2patr\onedrive\pulpit\snake\snake.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+	"Plansza.h"
+	"Jedzenie.h"
+	"Postac.h"
+	"Snake.h"
+
+1659184228 c:\users\2patr\onedrive\pulpit\snake\postac.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+	"Plansza.h"
+
+1659184949 c:\users\2patr\onedrive\pulpit\snake\snake.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+	"Plansza.h"
+	"Jedzenie.h"
+	"Postac.h"
+
+1659478305 source:c:\users\2patr\onedrive\pulpit\snake\ranking.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+	"Ranking.h"
+
+1659187464 c:\users\2patr\onedrive\pulpit\snake\ranking.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+
+1659478305 c:\users\2patr\onedrive\pulpit\snake\ranking.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<time.h>
+	"Ranking.h"
+

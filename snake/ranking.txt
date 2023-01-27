@@ -1,0 +1,10 @@
+Patryk	500	10X10	
+Drollpig	1300	10X10	
+Sredni	3150	11X11	
+trudny	4600	11X11	
+Patryk	600	10X10	
+Patryk_t	6000	11X11	
+Zdobcio	6400	10X10	
+Patryk	500	10X10	
+Patryk	2700	10X10	
+Patryczek	6000	10X10	
